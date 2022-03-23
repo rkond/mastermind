@@ -1,4 +1,4 @@
-# MAstermind
+# Mastermind
 
 A simple implementation fof Mastermind game, written as a tech evaluation assignment for a job application.
 
